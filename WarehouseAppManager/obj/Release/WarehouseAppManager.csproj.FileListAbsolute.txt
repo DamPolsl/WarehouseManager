@@ -1,0 +1,8 @@
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Release\WarehouseAppManager.csprojAssemblyReference.cache
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Release\View\MainWindow.g.cs
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Release\App.g.cs
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Release\WarehouseAppManager_MarkupCompile.cache
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Release\WarehouseAppManager_MarkupCompile.lref
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Release\View\MainWindow.baml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Release\WarehouseAppManager.exe
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Release\WarehouseAppManager.pdb

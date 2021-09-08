@@ -1,0 +1,166 @@
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.exe.config
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.exe
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.pdb
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\App.g.cs
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager_MarkupCompile.cache
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager_MarkupCompile.lref
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\MainWindow.baml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.g.resources
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.Properties.Resources.resources
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.GenerateResource.cache
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.CoreCompileInputs.cache
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.exe
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.pdb
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.exe.config
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.exe
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.pdb
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csprojAssemblyReference.cache
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\App.g.cs
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager_MarkupCompile.cache
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager_MarkupCompile.lref
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\MainWindow.baml
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.g.resources
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.Properties.Resources.resources
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.GenerateResource.cache
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.CoreCompileInputs.cache
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.exe
+C:\Users\cycuw\RiderProjects\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.pdb
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.exe.config
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.exe
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\WarehouseAppManager.pdb
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Buffers.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Memory.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Buffers.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Memory.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager_MarkupCompile.cache
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager_MarkupCompile.lref
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\MainWindow.baml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.g.resources
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.Properties.Resources.resources
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.CopyComplete
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.exe
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.pdb
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Google.Protobuf.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\MySql.Data.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Zstandard.Net.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Google.Protobuf.pdb
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Google.Protobuf.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\MySql.Data.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Renci.SshNet.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Renci.SshNet.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\AddWindow.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\AddWindow.baml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Google.Protobuf.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\MySql.Data.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Renci.SshNet.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Buffers.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Memory.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Zstandard.Net.dll
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Google.Protobuf.pdb
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Google.Protobuf.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\MySql.Data.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\Renci.SshNet.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Buffers.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Memory.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.AssemblyReference.cache
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\AddWindow.g.cs
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\AddWindow.baml
+C:\Users\cycuw\OneDrive\Studia\4 semestr\POiG\WarehouseAppManager\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.CopyComplete
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\NumberTextBox.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\WarehouseAppManager\WarehouseAppManager\obj\Debug\View\NumberTextBox.baml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\WarehouseAppManager.exe.config
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\WarehouseAppManager.exe
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\WarehouseAppManager.pdb
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Google.Protobuf.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\MySql.Data.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Renci.SshNet.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Buffers.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Memory.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Zstandard.Net.dll
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Google.Protobuf.pdb
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Google.Protobuf.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\MySql.Data.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\Renci.SshNet.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Buffers.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Memory.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\View\AddWindow.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\View\NumberTextBox.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager_MarkupCompile.cache
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager_MarkupCompile.lref
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\View\AddWindow.baml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\View\MainWindow.baml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\View\NumberTextBox.baml
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager.g.resources
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager.Properties.Resources.resources
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager.csproj.CopyComplete
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager.exe
+C:\Users\Damian\Desktop\Studia\semestr 4\Programowanie obiektowe i graficzne\PROJEKT\kopia\WarehouseAppManager\obj\Debug\WarehouseAppManager.pdb
